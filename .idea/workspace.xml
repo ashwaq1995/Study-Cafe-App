@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87b0a586-d4b3-4fc3-86d3-e16a7d455727" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/logging2.log" beforeDir="false" afterPath="$PROJECT_DIR$/logging2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyCafeProject" beforeDir="false" afterPath="$PROJECT_DIR$/studyCafeProject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyCafeProject/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/studyCafeProject/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studyCafeProject/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/studyCafeProject/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyCafeProject/system.properties" beforeDir="false" afterPath="$PROJECT_DIR$/studyCafeProject/system.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +136,7 @@
       <workItem from="1654814325447" duration="25425000" />
       <workItem from="1654896073425" duration="31294000" />
       <workItem from="1654959880362" duration="11132000" />
-      <workItem from="1654976078188" duration="18145000" />
+      <workItem from="1654976078188" duration="18511000" />
     </task>
     <servers />
   </component>
